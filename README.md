@@ -1,7 +1,4 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -34,6 +31,16 @@
 - OCP 11 (Oracle Certified Professional, Java SE 11 Developer)
   - Score: 46
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">LeetCode Profile 🚀</h2></summary>
+  </ul>
+</div>
+
+<!-- LeetCode Profile -->
+- LeetCode Profile: [ismailbk](https://leetcode.com/ismailbk/)
+- Active in programming problem-solving.
 
 <!--Intro start-->
 - 🔭 I’m currently working on  Angular, Spring Boot , MySql**
