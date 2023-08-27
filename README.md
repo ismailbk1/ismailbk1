@@ -39,8 +39,8 @@
 </div>
 
 <!-- LeetCode Profile -->
-- LeetCode Profile: [ismailbk](https://leetcode.com/ismailbk/)
-- Active in programming problem-solving.
+  - LeetCode Profile: [ismailbk](https://leetcode.com/ismailbk/)
+    - Active in programming problem-solving.
 
 <!--Intro start-->
 - 🔭 I’m currently working on  Angular, Spring Boot , MySql**
