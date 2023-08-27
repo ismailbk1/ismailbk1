@@ -23,6 +23,16 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Certifications 🎓</h2></summary>
+  </ul>
+</div>
+
+<!-- Certifications -->
+- OCP 11 (Oracle Certified Professional, Java SE 11 Developer)
+  - Score: 46
 
 
 <!--Intro start-->
@@ -81,7 +91,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,springboot,bootstrap,c,cpp,css,docker,github,html,java,angular,js,linux,md,mysql,nodejs,postman,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,spring,bootstrap,c,cpp,css,docker,github,html,angular,js,linux,mysql,postman,ts,eclipse,vscode&perline=14" />
   </a>
 </p>
 
