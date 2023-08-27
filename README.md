@@ -33,7 +33,7 @@
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="">
     <summary><h2 style="display: inline-block">LeetCode Profile 🚀</h2></summary>
   </ul>
 </div>
