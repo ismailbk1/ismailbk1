@@ -1,132 +1,88 @@
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ismail Benkraiem</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
+<!-- Header -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <h1>Hi 👋, I'm Ismail Benkraiem</h1>
+  <h3>Passionate Software Developer | Problem Solver | Tech Enthusiast</h3>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="">
-    <summary><h2 style="display: inline-block">Certifications 🎓</h2></summary>
-  </ul>
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<!-- Certifications -->
-- OCP 11 (Oracle Certified Professional, Java SE 11 Developer)
-  - Score: 46
+---
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="">
-    <summary><h2 style="display: inline-block">LeetCode Profile 🚀</h2></summary>
-  </ul>
+## 💡 About Me
+- 🔭 Currently working on **Angular, Spring Boot, and MySQL**.
+- 🌱 Learning to **integrate Hyper Beast Stack for scalable applications**.
+- 💬 Ask me about **Angular, Spring Boot, and MySQL**.
+- 📫 Reach me at **ismailbenkraie27@gmail.com**.
+
+---
+
+## 🎓 Certifications
+- **OCP 11** (Oracle Certified Professional, Java SE 11 Developer)  
+  - *Score: 46*
+
+---
+
+## 🚀 LeetCode Profile
+- **LeetCode Profile:** [ismailbk](https://leetcode.com/ismailbk/)  
+  Active in solving programming challenges and sharpening problem-solving skills.
+
+---
+
+## 📊 GitHub Stats & Trophies
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ismailbk1&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailbk1&theme=radical&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ismailbk1&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=ismailbk1&theme=radical&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  </div>
 </div>
 
-<!-- LeetCode Profile -->
-  - LeetCode Profile: [ismailbk](https://leetcode.com/ismailbk/)
-    - Active in programming problem-solving.
+---
 
-<!--Intro start-->
-- 🔭 I’m currently working on  Angular, Spring Boot , MySql**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- 💬 Ask me about Angular, Spring Boot , MySql**
-
-- 📫 Feel free to reach me out **ismailbenkraie27@gmail.com**
-
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ismailbk1&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailbk1&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ismailbk1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ismailbk1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+## 🛠️ Technologies I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,spring,bootstrap,c,cpp,css,docker,github,html,angular,js,linux,mysql,postman,ts,eclipse,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,spring,bootstrap,c,cpp,css,docker,github,html,angular,js,linux,mysql,postman,ts,eclipse,vscode&perline=8" />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
+## 🤝 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/ismail-benkraiem-ba3a32218/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
+  <a href="https://www.linkedin.com/in/ismail-benkraiem-ba3a32218/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
 </p>
 
+---
 
-<!--profile visit count-->
+<!-- Profile Visit Counter -->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ismailbk1&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ismailbk1&icon=3&color=6" alt="Profile Visit Counter" />
+  </a>
 </div>
 
-<!--horizontal divider(gradiant)-->
+---
+
+<!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Last Edited on: 27/8/2023
+_Last Edited on: 27/08/2023_
