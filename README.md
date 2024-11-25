@@ -4,9 +4,9 @@
   <h3>Passionate Software Developer | Problem Solver | Tech Enthusiast</h3>
 </div>
 
-<!-- Snake animation -->
+<!-- Professional Animated Banner -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/ismailbk1/ismailbk1/assets/your_banner.gif" alt="Professional Banner" />
 </div>
 
 ---
